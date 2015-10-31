@@ -1,7 +1,7 @@
 README 
 ------
 
-Execute a set of commands in a cluster of machines. 
+Execute a set of commands on a cluster of machines. 
 
 Dependencies 
 ------------
@@ -11,9 +11,9 @@ i.  Package dependencies -
 
 ii. Logical dependencies -
 
-1. All the machines have a same login credentials.
+1. All the machines have the same login credentials.
 
-2. Remote ssh is enabled in all the machines. 
+2. Remote ssh is enabled on all the machines. 
 
  
 
